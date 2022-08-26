@@ -5,6 +5,8 @@ The Deep Learning Specialization is a foundational program that helps understand
   <img src="https://github.com/SwamiKannan/Deep-Learning-Specialization/blob/main/offered_by.PNG" />
 </p>
 
+# Programming Assignments for Reinforcement Learning Specialization
+
 ## Please note:
 This repository is only for recording my work.
 
