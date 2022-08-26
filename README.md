@@ -1,5 +1,9 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 The Deep Learning Specialization is a foundational program that helps understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
+<p align="center">
+  <img src="https://github.com/SwamiKannan/Deep-Learning-Specialization/blob/main/Course.PNG" />
+  <img src="https://github.com/SwamiKannan/Deep-Learning-Specialization/blob/main/offered_by.PNG" />
+</p>
 
 ## Please note:
 This repository is only for recording my work.
