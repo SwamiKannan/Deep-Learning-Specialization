@@ -29,7 +29,4 @@ By the end you’ll be able to
 • Build a Convolutional Neural Network, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image, video, and other 2D/3D data
 
 • Build and train Recurrent Neural Networks and its variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering
-## Please note:
-This repository is only for recording my work.
 
-PLEASE DO NOT USE THIS AS A REFERENCE FOR YOUR OWN PROGRAMMING ASSIGNMENTS
