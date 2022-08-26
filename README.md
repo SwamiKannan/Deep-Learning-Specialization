@@ -6,6 +6,10 @@ The Deep Learning Specialization is a foundational program that helps understand
 </p>
 
 # Programming Assignments for Reinforcement Learning Specialization
+
+**_Disclaimer_**<br>
+*Anyone looking to enter the field of artificial intelligence for the first time can check out the Machine Learning Specialization offered by Coursera. You should only use the programming assignments placed in this repository as a resource and to get you out of a jam. Do not simply copy and paste the code if you are a participant in this course; doing so will not help you. Please watch every lecture video, finish the quizzes and code assignments yourself as it is comparatively simple to understand.*
+
 ## About this Course:
 The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
 
